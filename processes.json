@@ -1,0 +1,8 @@
+[
+    {
+        "name": "name",
+        "directory_path": "path_to_directory",
+        "start_cmd": "example_command",
+        "auto_start": true
+    }
+]
